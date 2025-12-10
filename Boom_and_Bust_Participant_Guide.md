@@ -148,20 +148,42 @@ Discuss: "Which antidotes apply across all investment decisions?"
 
 Map your personal Bubble Triangle:
 
-**Your Fuel**  
-What environments make you accelerate?
+```
+                        YOUR FUEL
+                   What environments
+                 make you accelerate?
+                          
+                    /            \
+                   /              \
+                  /                \
+                 /                  \
+                /                    \
+               /                      \
+              /                        \
+             /                          \
+            /                            \
+           /                              \
+          /________________________________\
+    YOUR SPECULATION                        YOUR MARKETABILITY
+         RISKS                              What parts of your work
+ Where do you tend toward                   strengthen when shared
+ overconfidence or FOMO?                         or visible?
+```
 
+**Your Fuel**  
 *Early momentum in data • Abundant capital for experiments • Competitive pressure • etc.*
 
-**Your Marketability**  
-What parts of your work strengthen when shared or visible?
+<br><br>
 
+**Your Marketability**  
 *Public pitching improves ideas • Leadership visibility drives performance • Need external validation • etc.*
 
-**Your Speculation Risks**  
-Where do you tend toward overconfidence or FOMO?
+<br><br>
 
+**Your Speculation Risks**  
 *Chase hot opportunities outside competence • Overestimate timing ability • Can't say no when peers are enthusiastic • etc.*
+
+<br><br>
 
 ### Group Discussion
 
