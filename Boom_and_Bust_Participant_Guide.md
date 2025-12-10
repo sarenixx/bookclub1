@@ -5,7 +5,7 @@ Turner & Quinn's *Boom and Bust: A Global History of Financial Bubbles*
 
 ---
 
-## Exercise 3: Modern Bubble Analysis
+## Modern Bubble Analysis
 
 ### Choose a Trend
 
@@ -54,7 +54,7 @@ Present your trend, scorecard, and productive/destructive assessment.
 
 ---
 
-## Exercise 4: Bubble Antidote Builder
+## Bubble Antidote Builder
 
 ### Small Groups
 
@@ -83,7 +83,7 @@ Discuss: "Which antidotes apply across all investment decisions?"
 
 ---
 
-## Exercise 5: The Bubble Triangle of You
+## The Bubble Triangle of You
 
 ### Individual Reflection
 
