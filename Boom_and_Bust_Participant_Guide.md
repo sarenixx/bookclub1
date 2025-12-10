@@ -95,12 +95,6 @@ What does bubble-aware but opportunity-positive positioning look like?
 
 *Examples: Infrastructure, not speculation • Position-size for 70% drawdown*
 
-### Full Group Discussion
-
-Share your antidote with the full group.
-
-Discuss: "Which antidotes apply across all investment decisions?"
-
 ### Worksheet
 
 **For trend/sector:** ___________________________
@@ -125,6 +119,12 @@ Bubble-aware but opportunity-positive positioning
 **Our antidote:**
 
 <br><br><br>
+
+### Full Group Discussion
+
+Share your antidote with the full group.
+
+Discuss: "Which antidotes apply across all investment decisions?"
 
 ---
 
