@@ -57,12 +57,26 @@ Where is speculative psychology visible?
 
 **Scorecard**
 
-| Component | Score (1–5) | Evidence |
-|-----------|-------------|----------|
-| Fuel | | <br><br> |
-| Marketability | | <br><br> |
-| Speculation | | <br><br> |
-| **Total** | | |
+| Component | Score (1–5) |
+|-----------|-------------|
+| Fuel | |
+| Marketability | |
+| Speculation | |
+| **Total** | |
+
+**Evidence:**
+
+**Fuel**
+
+<br><br><br><br>
+
+**Marketability**
+
+<br><br><br><br>
+
+**Speculation**
+
+<br><br><br><br>
 
 **Productive or destructive bubble?**
 
