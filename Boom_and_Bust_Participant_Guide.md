@@ -47,30 +47,34 @@ Some spark sets things off—new technologies, political changes, regulatory shi
 
 The authors emphasize: **bubbles aren't random—they are systematic and explainable.**
 
+<div style="page-break-after: always;"></div>
+
 ---
 
 ### Discussion Questions
 
 **What did you find most compelling about the Bubble Triangle framework?**
 
-<br><br>
+<br><br><br>
 
 **Do you agree that bubbles are "inevitable" and some are even beneficial?**
 
-<br><br>
+<br><br><br>
 
 **Which historical bubble from the book resonated most with you and why?**  
 *Railway Mania • Dot-Com • Housing 2008 • Japan 1980s • Mississippi/South Sea • etc.*
 
-<br><br>
+<br><br><br>
 
 **Where do you disagree with the authors' analysis or conclusions?**
 
-<br><br>
+<br><br><br>
 
 **How has this book changed (or not changed) how you think about current market dynamics?**
 
-<br><br>
+<br><br><br>
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -112,17 +116,17 @@ Narrative momentum? Founder cults? Impossible TAM? Retail FOMO? Valuation discon
 **Fuel**  
 What's driving resources into this space?
 
-<br><br>
+<br><br><br>
 
 **Marketability**  
 What makes this trend easy to trade/share/access?
 
-<br><br>
+<br><br><br>
 
 **Speculation**  
 Where is speculative psychology visible?
 
-<br><br>
+<br><br><br>
 
 **Scorecard**
 
@@ -154,6 +158,8 @@ Where is speculative psychology visible?
 ### Group Presentation
 
 Present your trend, scorecard, and productive/destructive assessment.
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -187,17 +193,17 @@ Choose one approach:
 **[ ] Signal Check**  
 Early-warning signs that speculation outpaces fundamentals
 
-<br><br>
+<br><br><br>
 
 **[ ] Underwriting Shift**  
 Hype-resistant decision criteria
 
-<br><br>
+<br><br><br>
 
 **[ ] Balanced Conviction**  
 Bubble-aware but opportunity-positive positioning
 
-<br><br>
+<br><br><br>
 
 **Our antidote:**
 
@@ -208,6 +214,8 @@ Bubble-aware but opportunity-positive positioning
 Share your antidote with the full group.
 
 Discuss: "Which antidotes apply across all investment decisions?"
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -242,17 +250,17 @@ Map your personal Bubble Triangle:
 **Your Fuel**  
 *Early momentum in data • Abundant capital for experiments • Competitive pressure • etc.*
 
-<br><br>
+<br><br><br>
 
 **Your Marketability**  
 *Public pitching improves ideas • Leadership visibility drives performance • Need external validation • etc.*
 
-<br><br>
+<br><br><br>
 
 **Your Speculation Risks**  
 *Chase hot opportunities outside competence • Overestimate timing ability • Can't say no when peers are enthusiastic • etc.*
 
-<br><br>
+<br><br><br>
 
 ### Group Discussion
 
