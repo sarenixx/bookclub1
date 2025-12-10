@@ -7,6 +7,8 @@ Turner & Quinn's *Boom and Bust: A Global History of Financial Bubbles*
 
 ## Modern Bubble Analysis
 
+![Bubble Triangle](image-7.png)
+
 ### Choose a Trend
 
 Your small group selects one current trend to analyze:
