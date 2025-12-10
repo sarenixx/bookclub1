@@ -54,6 +54,38 @@ If this is a bubble, is it productive (railways, dot-com) or destructive (2008 h
 
 Present your trend, scorecard, and productive/destructive assessment.
 
+### Worksheet
+
+**Trend/Sector:** ___________________________
+
+**Fuel**  
+What's driving resources into this space?
+
+<br><br>
+
+**Marketability**  
+What makes this trend easy to trade/share/access?
+
+<br><br>
+
+**Speculation**  
+Where is speculative psychology visible?
+
+<br><br>
+
+**Scorecard**
+
+| Component | Score (1–5) | Evidence |
+|-----------|-------------|----------|
+| Fuel | | |
+| Marketability | | |
+| Speculation | | |
+| **Total** | | |
+
+**Productive or destructive bubble?**
+
+<br><br><br>
+
 ---
 
 ## Bubble Antidote Builder
@@ -82,6 +114,31 @@ What does bubble-aware but opportunity-positive positioning look like?
 Share your antidote with the full group.
 
 Discuss: "Which antidotes apply across all investment decisions?"
+
+### Worksheet
+
+**For trend/sector:** ___________________________
+
+Choose one approach:
+
+**[ ] Signal Check**  
+Early-warning signs that speculation outpaces fundamentals
+
+<br><br>
+
+**[ ] Underwriting Shift**  
+Hype-resistant decision criteria
+
+<br><br>
+
+**[ ] Balanced Conviction**  
+Bubble-aware but opportunity-positive positioning
+
+<br><br>
+
+**Our antidote:**
+
+<br><br><br>
 
 ---
 
@@ -124,67 +181,6 @@ What patterns emerge at the team level?
 How could we harness our strengths while guarding against risks?
 
 *"We could build AI infrastructure (Fuel + Marketability) if we add speculation guardrails."*
-
----
-
-## Modern Bubble Analysis Worksheet
-
-**Trend/Sector:** ___________________________
-
-**Fuel**  
-What's driving resources into this space?
-
-<br><br>
-
-**Marketability**  
-What makes this trend easy to trade/share/access?
-
-<br><br>
-
-**Speculation**  
-Where is speculative psychology visible?
-
-<br><br>
-
-**Scorecard**
-
-| Component | Score (1–5) | Evidence |
-|-----------|-------------|----------|
-| Fuel | | |
-| Marketability | | |
-| Speculation | | |
-| **Total** | | |
-
-**Productive or destructive bubble?**
-
-<br><br><br>
-
----
-
-## Bubble Antidote Worksheet
-
-**For trend/sector:** ___________________________
-
-Choose one approach:
-
-**[ ] Signal Check**  
-Early-warning signs that speculation outpaces fundamentals
-
-<br><br>
-
-**[ ] Underwriting Shift**  
-Hype-resistant decision criteria
-
-<br><br>
-
-**[ ] Balanced Conviction**  
-Bubble-aware but opportunity-positive positioning
-
-<br><br>
-
-**Our antidote:**
-
-<br><br><br>
 
 ---
 
