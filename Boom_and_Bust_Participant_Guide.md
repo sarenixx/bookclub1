@@ -127,25 +127,6 @@ How could we harness our strengths while guarding against risks?
 
 ---
 
-## Personal Reflection Worksheet
-
-**Your Fuel**  
-What environments make you accelerate?
-
-<br><br><br>
-
-**Your Marketability**  
-What parts of your work strengthen when shared/visible?
-
-<br><br><br>
-
-**Your Speculation Risks**  
-Where do you tend toward overconfidence or FOMO?
-
-<br><br><br>
-
----
-
 ## Modern Bubble Analysis Worksheet
 
 **Trend/Sector:** ___________________________
