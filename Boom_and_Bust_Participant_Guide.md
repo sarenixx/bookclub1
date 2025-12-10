@@ -36,10 +36,6 @@ Where is speculative psychology visible?
 
 Narrative momentum? Founder cults? Impossible TAM? Retail FOMO? Valuation disconnects?
 
-### Group Presentation
-
-Present your trend, scorecard, and productive/destructive assessment.
-
 ### Worksheet
 
 **Trend/Sector:** ___________________________
@@ -71,6 +67,10 @@ Where is speculative psychology visible?
 **Productive or destructive bubble?**
 
 <br><br><br>
+
+### Group Presentation
+
+Present your trend, scorecard, and productive/destructive assessment.
 
 ---
 
