@@ -5,6 +5,75 @@ Turner & Quinn's *Boom and Bust: A Global History of Financial Bubbles*
 
 ---
 
+## Book Discussion
+
+Before we dive into the exercises, let's discuss the book's core framework and your reactions to it.
+
+### The Core: The Bubble Triangle
+
+Turner & Quinn argue that all financial bubbles can be understood using one simple framework—the **Bubble Triangle**, made of three elements:
+
+**1. Fuel (Money & Credit)**  
+Cheap, abundant capital is the accelerant.
+
+→ Low interest rates  
+→ Easy bank lending  
+→ Innovations that increase liquidity (margin trading, new financial instruments)
+
+*Without fuel, bubbles cannot grow.*
+
+**2. Marketability**  
+How easy it is to buy and sell an asset.
+
+→ Tradable shares  
+→ Good legal/market infrastructure  
+→ Standardization  
+→ Intermediaries promoting liquidity
+
+*Higher marketability → faster bubble growth.*
+
+**3. Speculation**  
+The human psychology component.
+
+→ Narratives of prosperity  
+→ FOMO (fear of missing out)  
+→ Overconfidence / belief that "this time is different"  
+→ Herd behavior
+
+*Speculation is what turns enthusiasm into mania.*
+
+**Plus: "Flames" (Ignition)**  
+Some spark sets things off—new technologies, political changes, regulatory shifts, major discoveries.
+
+The authors emphasize: **bubbles aren't random—they are systematic and explainable.**
+
+---
+
+### Discussion Questions
+
+**What did you find most compelling about the Bubble Triangle framework?**
+
+<br><br>
+
+**Do you agree that bubbles are "inevitable" and some are even beneficial?**
+
+<br><br>
+
+**Which historical bubble from the book resonated most with you and why?**  
+*Railway Mania • Dot-Com • Housing 2008 • Japan 1980s • Mississippi/South Sea • etc.*
+
+<br><br>
+
+**Where do you disagree with the authors' analysis or conclusions?**
+
+<br><br>
+
+**How has this book changed (or not changed) how you think about current market dynamics?**
+
+<br><br>
+
+---
+
 ## Modern Bubble Analysis
 
 ![Bubble Triangle](image-7.png)
