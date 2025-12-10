@@ -36,20 +36,6 @@ Where is speculative psychology visible?
 
 Narrative momentum? Founder cults? Impossible TAM? Retail FOMO? Valuation disconnects?
 
-### Scorecard
-
-Rate each component 1–5 (low to extreme):
-
-| Component | Score | Evidence |
-|-----------|-------|----------|
-| Fuel | | |
-| Marketability | | |
-| Speculation | | |
-| **Total** | | |
-
-**Key Question:**  
-If this is a bubble, is it productive (railways, dot-com) or destructive (2008 housing)?
-
 ### Group Presentation
 
 Present your trend, scorecard, and productive/destructive assessment.
