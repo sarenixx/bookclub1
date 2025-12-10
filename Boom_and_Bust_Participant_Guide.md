@@ -21,7 +21,7 @@ We'll map this framework to personal experience, analyze current markets, and bu
 
 ## Exercise 1: Bubble Triangle Mapping
 
-### Individual (10 min)
+### Individual
 
 Using sticky notes, write one experience per note for each category:
 
@@ -46,7 +46,7 @@ When have you seen speculative psychology?
 → Hype cycles you participated in  
 → Enthusiasm → mania → correction
 
-### Pairs (10 min)
+### Pairs
 
 Share your sticky notes with your partner. Look for:
 
@@ -56,7 +56,7 @@ Share your sticky notes with your partner. Look for:
 
 Prepare one sentence summarizing your most interesting pattern or contrast.
 
-### Group Discussion (15 min)
+### Group Discussion
 
 Each pair shares their one sentence with the full group.
 
@@ -64,7 +64,7 @@ Each pair shares their one sentence with the full group.
 
 ## Exercise 2: Archetype Assessment
 
-### Individual (5 min)
+### Individual
 
 Choose the archetype you most identify with:
 
@@ -76,7 +76,7 @@ Choose the archetype you most identify with:
 | **The Mississippi Gambler** | Loves novelty; overlooks systemic risk | First-mover advantage, creative | Chases hype over fundamentals |
 | **The Japan 1980s Strategist** | Confidence in a system that feels unbreakable | Strong conviction, discipline | Overconfidence in past success |
 
-### Pairs (10 min)
+### Pairs
 
 Discuss with your partner:
 
@@ -93,7 +93,7 @@ Your partner introduces you to the group:
 
 ## Exercise 3: Modern Bubble Analysis
 
-### Choose a Trend (5 min)
+### Choose a Trend
 
 Your small group selects one current trend to analyze:
 
@@ -101,7 +101,7 @@ Generative AI • Climate tech • Private credit • Quantum computing
 GLP-1s • Longevity biotech • Sovereign wealth concentration  
 *Or choose your own*
 
-### Bubble Triangle Analysis (15 min)
+### Bubble Triangle Analysis
 
 Analyze your chosen trend:
 
@@ -120,7 +120,7 @@ Where is speculative psychology visible?
 
 Narrative momentum? Founder cults? Impossible TAM? Retail FOMO? Valuation disconnects?
 
-### Scorecard (5 min)
+### Scorecard
 
 Rate each component 1–5 (low to extreme):
 
@@ -134,7 +134,7 @@ Rate each component 1–5 (low to extreme):
 **Key Question:**  
 If this is a bubble, is it productive (railways, dot-com) or destructive (2008 housing)?
 
-### Group Presentation (15 min)
+### Group Presentation
 
 Present your trend, scorecard, and productive/destructive assessment.
 
@@ -142,7 +142,7 @@ Present your trend, scorecard, and productive/destructive assessment.
 
 ## Exercise 4: Bubble Antidote Builder
 
-### Small Groups (10 min)
+### Small Groups
 
 For your trend, design one antidote strategy:
 
@@ -161,7 +161,7 @@ What does bubble-aware but opportunity-positive positioning look like?
 
 *Examples: Infrastructure, not speculation • Position-size for 70% drawdown*
 
-### Full Group Discussion (10 min)
+### Full Group Discussion
 
 Share your antidote with the full group.
 
@@ -171,7 +171,7 @@ Discuss: "Which antidotes apply across all investment decisions?"
 
 ## Exercise 5: The Bubble Triangle of You
 
-### Individual Reflection (10 min)
+### Individual Reflection
 
 Map your personal Bubble Triangle:
 
@@ -190,7 +190,7 @@ Where do you tend toward overconfidence or FOMO?
 
 *Chase hot opportunities outside competence • Overestimate timing ability • Can't say no when peers are enthusiastic • etc.*
 
-### Group Discussion (20 min)
+### Group Discussion
 
 Share voluntarily. Discuss:
 
